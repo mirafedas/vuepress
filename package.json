@@ -1,0 +1,28 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "Simple website built using Vuepress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myrosvas/vuepress.git"
+  },
+  "keywords": [
+    "nicest",
+    "place",
+    "on",
+    "the",
+    "internet"
+  ],
+  "author": "Old Sad Panda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myrosvas/vuepress/issues"
+  },
+  "homepage": "https://github.com/myrosvas/vuepress#readme"
+}
